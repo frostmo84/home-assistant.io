@@ -31,3 +31,4 @@ The following integrations are automatically discovered by the SSDP integration:
 
  - Deconz
  - Philips Hue
+ - ESP Home
